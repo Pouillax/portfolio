@@ -13,8 +13,8 @@ const links = [
   },
   {
     label: "LinkedIn",
-    value: "linkedin.com/in/julespouilly",
-    href: "https://www.linkedin.com/in/jules-pouilly-91440a220/",
+    value: "linkedin.com/in/jules-pouilly",
+    href: "https://www.linkedin.com/in/jules-pouilly/",
   },
 ];
 
